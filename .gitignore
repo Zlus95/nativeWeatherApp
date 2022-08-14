@@ -53,3 +53,6 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+# dotenv environment variable files
+.env
